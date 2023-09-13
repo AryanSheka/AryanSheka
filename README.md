@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -  🔭 Hi, I’m Aryan Sheka (@AryanSheka), a final year B.Tech undergrad at National Institute of Technology, Karnataka, India.
--  🌱 I am an aspiring Data Scientist who is working on Machine Learning and Deep Learning projects.
+-  🌱 I am an aspiring Software Engineer who is also working on Machine Learning and Deep Learning projects.
 -  😄 I also love competitive programming.
 -  📫 Reach out to me on (www.linkedin.com/in/aryan-sheka)
 
