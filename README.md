@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--  🔭 Hi, I’m Aryan Sheka (@AryanSheka), a final year B.Tech undergrad at National Institute of Technology, Karnataka, India.
--  🌱 I am an aspiring Software Engineer who is also working on Machine Learning and Deep Learning projects.
+-  🔭 Hi, I’m Aryan Sheka (@AryanSheka)
+-  🌱 I am interested in working with ai.
 -  😄 I also love competitive programming.
 -  📫 Reach out to me on (www.linkedin.com/in/aryan-sheka)
