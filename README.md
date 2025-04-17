@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -  🔭 Hi, I’m Aryan Sheka (@AryanSheka)
--  🌱 I am interested in working with ai.
+-  🌱 I am interested in working with AI.
 -  😄 I also love competitive programming.
 -  📫 Reach out to me on (www.linkedin.com/in/aryan-sheka)
